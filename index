@@ -2,5 +2,5 @@ function helloword(name){
     return "hello word, " name;
 }
 
-console.log(helloword("Naty!"));
+console.log(helloword("Naty!!"));
 
